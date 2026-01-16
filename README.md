@@ -116,7 +116,7 @@ Translated raw data into actionable business insights
 
 Clone the repository:
 
-git clone https://github.com/nkiru0/customer-shopping-analysis.git
+git clone https://github.com/nkiru0/Customer_Behavior_Analysis.git
 
 
 Open the Jupyter Notebook:
